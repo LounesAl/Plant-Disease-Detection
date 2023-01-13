@@ -1,5 +1,5 @@
 ################################################################
-#       This program has been written by Nahush Kulkarni       #
+#       This program has been written by Lounes ALLIOUI        #
 ################################################################
 
 from tkinter import filedialog
